@@ -2,6 +2,10 @@
 
 Created with the help of react.js
 
+Hosted on firebase : https://clone-dbfc5.web.app/
+
+# Documentation used
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
