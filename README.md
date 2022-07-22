@@ -2,7 +2,7 @@
 
 Created with the help of react.js
 
-Hosted on firebase : https://clone-dbfc5.web.app/
+Hosted on firebase ---> Hosting URL: https://clone-dbfc5.web.app
 
 # Documentation used
 
